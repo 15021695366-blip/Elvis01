@@ -24,4 +24,4 @@ npm run preview
 base: "/Elvis01/"
 ```
 
-推送到 `main` 分支后，GitHub Actions 会自动部署。
+推送到 `main` 分支后，GitHub Actions 会自动部署。 
