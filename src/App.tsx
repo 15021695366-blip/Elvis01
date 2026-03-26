@@ -300,16 +300,16 @@ export default function App() {
             </h2>
 
             <div className="space-y-4 text-on-surface-variant mb-12">
-              <p>微信：你的微信号</p>
-              <p>邮箱：hello@zeroone.com</p>
-              <p>电话：138-0000-0000</p>
-              <p>地址：这里填写你的工作室地址</p>
+              <p>微信：Elvis93030</p>
+              <p>邮箱：Elvis93030@163.com</p>
+              <p>电话：15021695366</p>
+              <p>地址：上海市黄浦区</p>
             </div>
 
             <div className="flex flex-col md:flex-row justify-center items-center gap-8 mt-16">
               <a
                 className="text-primary text-2xl border-b-2 border-primary/30 pb-2 hover:border-primary transition-all flex items-center gap-2"
-                href="mailto:hello@zeroone.com"
+                href="mailto:Elvis93030@163.com"
               >
                 START A PROJECT <ArrowRight className="w-6 h-6" />
               </a>
